@@ -133,7 +133,7 @@ sidebar: false
         </div>
         <div id="disclaimer">
             {% include box.html type="start" title="<h3>Disclaimer</h3>" %}
-                <p>Information on this page is provided by vendors. <abbr title="World Wide Web Consortium">W3C</abbr> does not endorse specific products.</p>
+               <ul><li>Information on this page is provided by vendors.</li> <li><strong> <abbr title="World Wide Web Consortium">W3C</abbr> does not endorse specific products.</strong></li> </ul
                 <p><abbr title="World Wide Web Consortium">W3C</abbr> does not endorse specific vendor products. Inclusion of products in this list does not indicate endorsement by W3C. Products and search criteria are listed with no quality rating.</p>
                 <p>Tool descriptions, search criteria, and other information in this database is provided by tool developers, vendors, or others. W3C does not verify the accuracy of the information.</p>
                 <p>The list is not a review of evaluation tools, nor a complete or definitive list of all tools. The information can change at any time.</p>
